@@ -10,7 +10,7 @@ screen = pygame.display.set_mode((WIDTH, HEIGHT), pygame.RESIZABLE)  # Janela re
 pygame.display.set_caption("Janela com Imagem")
 
 # Definindo a cor de fundo
-BG_COLOR = (30, 30, 40)  # cor de fundo (um tom escuro)
+BG_COLOR = (92, 190, 242)  # cor de fundo (um tom escuro)
 
 # Caminho da imagem
 image_file = "toystore.png"  # Coloque o nome correto da sua imagem aqui

@@ -6,7 +6,7 @@ pygame.init()
 #Definindo o tamanho da janela
 WIDTH, HEIGHT = 800, 600
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.dispalay.set_caption("Coca-Collastic Game.")
+pygame.display.set_caption("TOY STORE")
 
 #loop principal do jogo
 running = True
